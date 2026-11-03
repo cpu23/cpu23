@@ -1,7 +1,6 @@
 <img src="./assets/profile.svg" width="960" alt="Harris Oldroyd — profile card: ASCII chip, About, Stack (Python, TypeScript, PyTorch, llama.cpp), github.com/cpu23, youtube.com/@HarrisOldroyd">
 
 <p align="center">
-  <a href="https://github.com/cpu23">GitHub</a> ·
   <a href="https://www.youtube.com/@HarrisOldroyd">YouTube</a> ·
   <a href="https://harrisoldroyd.com">Website</a>
 </p>
