@@ -1,4 +1,4 @@
-<img src="./assets/profile.svg?v=2" width="960" alt="Harris Oldroyd — profile card: ASCII chip, About, Stack (Python, TypeScript, PyTorch, llama.cpp), github.com/cpu23, youtube.com/@HarrisOldroyd">
+<img src="./assets/profile-card.svg" width="960" alt="Harris Oldroyd — profile card: ASCII chip, About, Stack (Python, TypeScript, PyTorch, llama.cpp), github.com/cpu23, youtube.com/@HarrisOldroyd">
 
 <p align="center">
   <a href="https://www.youtube.com/@HarrisOldroyd">YouTube</a> ·
